@@ -1,6 +1,5 @@
 <p align="center">
   <img src="spins.png">
-<p align="center">
 
 # Michael Hoffman
 
