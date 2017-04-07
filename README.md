@@ -1,4 +1,4 @@
-![](spins.png){: .center-image }
+![](spins.png)
 
 # Michael Hoffman
 
