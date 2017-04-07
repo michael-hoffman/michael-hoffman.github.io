@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="spins.png">
+  </a>
+<p align="center">
+
 # Michael Hoffman
 
 I am a physicist and engineer with a practical mindset and strong analytic ability ready to tackle challenging problems with machine learning and data science. I have demonstrated performance leading teams in critical operations, solving complex technical problems, and responding to changing business needs.
