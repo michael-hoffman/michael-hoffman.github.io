@@ -10,7 +10,9 @@ I am a physicist and engineer with a practical mindset and strong analytic abili
 This blog is being constructed to showcase and discuss the data science projects that I have done and am working on. Stay tuned.
 
 ## Predicting Galaxy Masses
-[Predicting masses](https://michael-hoffman.github.io/DG_SPS) \$$ 1/f_a $$
+[Predicting masses](https://michael-hoffman.github.io/DG_SPS) \\( 1/f_a \\) is the test of inline equations.
+
+This is the test of equation blocks.
 
 $$
 \begin{align*}
