@@ -10,7 +10,7 @@ I am a physicist and engineer with a practical mindset and strong analytic abili
 This blog is being constructed to showcase and discuss the data science projects that I have done and am working on. Stay tuned.
 
 ## Predicting Galaxy Masses
-[Predicting masses](https://michael-hoffman.github.io/DG_SPS) 
+[Predicting masses](https://michael-hoffman.github.io/DG_SPS) $$ f_a $$
 
 $$
 \begin{align*}
