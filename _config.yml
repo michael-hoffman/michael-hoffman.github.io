@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: the blue glow data science blog
 description: Here I will discuss the things I have found useful when working on data science projects
+markdown: kramdown
