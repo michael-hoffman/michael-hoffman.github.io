@@ -11,7 +11,7 @@ When astronomers observe galaxies through telescopes they have to predict the ma
 
 
 ### Titanic: Machine Learning from Disaster
-To get familiar with [Kaggle](https://www.kaggle.com) competitions I worked on a project the initial tutorial project. The goal is the predict who onboard survived the accident. In the initial project we wanted to see how much the predictions would change when the input data was scaled properly as opposed to unscaled (violated the assumptions of the underlying SVM model). We saw an approximately five percent improvement in accuracy by preprocessing the data properly. 
+To get familiar with [Kaggle](https://www.kaggle.com) competitions I worked on a project the initial tutorial project. The goal is the predict who onboard survived the accident. In the [initial project](https://michael-hoffman.github.io/titanic) we wanted to see how much the predictions would change when the input data was scaled properly as opposed to unscaled (violated the assumptions of the underlying SVM model). We saw an approximately five percent improvement in accuracy by preprocessing the data properly. 
 
 [Project Site](https://michael-hoffman.github.io/titanic)  
 [Kaggle Site](https://www.kaggle.com/c/titanic)  
