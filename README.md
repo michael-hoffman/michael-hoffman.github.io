@@ -17,4 +17,7 @@ To get familiar with [Kaggle](https://www.kaggle.com) competitions I worked on a
 [Kaggle Site](https://www.kaggle.com/c/titanic)  
 [Feature Scaling](https://en.wikipedia.org/wiki/Feature_scaling)
 
-### [Notes](https://michael-hoffman.github.io/notes/notes)
+### Notes
+General thoughts and information I have found useful and want to save. This is typically unrelated to a project.
+
+[Notes Site](https://michael-hoffman.github.io/notes/notes)
