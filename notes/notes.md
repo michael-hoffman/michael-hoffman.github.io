@@ -1,4 +1,4 @@
-[back to main page](https://michael-hoffman.gitbub.io/)
+[back to main page](https://michael-hoffman.github.io)
 
 # Useful tidbits and notes
 I use this page to keep track of ideas or information I used along the
